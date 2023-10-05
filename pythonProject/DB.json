@@ -1,0 +1,28 @@
+{
+    "Buildings": [
+        {
+            "works": true,
+            "products": "Eat",
+            "city": "Moscow",
+            "year": 21
+        },
+        {
+            "works": false,
+            "products": "None",
+            "city": "Moscow",
+            "year": 0
+        },
+        {
+            "free": true,
+            "family": "Poverinov",
+            "city": "Moscow",
+            "year": 2
+        },
+        {
+            "free": false,
+            "family": "None",
+            "city": "None",
+            "year": 5
+        }
+    ]
+}
